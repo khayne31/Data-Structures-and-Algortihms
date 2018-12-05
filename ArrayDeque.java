@@ -1,9 +1,7 @@
 /**
  * Your implementation of an array deque.
  *
- * @author YOUR NAME HERE
- * @userid YOUR USER ID HERE (e.g. gburdell3)
- * @GTID YOUR GT ID HERE (e.g. 900000000)
+ * @author Kellen Haynes
  * @version 1.0
  */
 public class ArrayDeque<T> {
