@@ -3,8 +3,6 @@ import java.util.ArrayList;
  * Your implementation of a min heap.
  *
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 public class MinHeap<T extends Comparable<? super T>> {
