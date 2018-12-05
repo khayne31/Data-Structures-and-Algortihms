@@ -5,8 +5,6 @@ import java.util.ArrayList;
 /**
  * Your implementation of an AVL Tree.
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 
