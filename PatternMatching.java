@@ -7,8 +7,6 @@ import java.util.Map;
  * Your implementations of various string searching algorithms.
  *
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 public class PatternMatching {
