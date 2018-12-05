@@ -12,8 +12,6 @@ import  java.util.HashMap;
  * Your implementation of various different graph algorithms.
  *
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 public class GraphAlgorithms {
