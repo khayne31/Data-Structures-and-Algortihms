@@ -5,7 +5,6 @@ import java.util.Set;
  * Your implementation of HashMap.
  *
  * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 public class HashMap<K, V> {
