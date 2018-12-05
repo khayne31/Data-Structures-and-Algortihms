@@ -7,8 +7,6 @@ import java.util.LinkedList;
 /**
  * Your implementation of a binary search tree.
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0p
  */
 
