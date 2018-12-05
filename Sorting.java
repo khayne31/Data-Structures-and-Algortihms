@@ -8,8 +8,6 @@ import java.util.Random;
  * Your implementation of various sorting algorithms.
  *
  * @author Kellen Haynes
- * @userid khaynes31
- * @GTID 903293835
  * @version 1.0
  */
 public class Sorting {
